@@ -4,7 +4,7 @@ A self-hosted n8n workflow that reads new email, classifies it with an LLM, vali
 
 Demo (32 s, test emails only): [demo.mp4](demo.mp4)
 
-**Want it ready to import?** The complete workflow file plus a step-by-step setup guide is available here: [AI Email Triage for n8n on Gumroad](https://nasarhayatt.gumroad.com/l/n8n-ai-email-triage). Running in about 15 minutes.
+**Want it ready to import?** The complete workflow file plus a step-by-step setup guide is available here: [AI Email Triage for n8n on Gumroad](https://nasarhayatt.gumroad.com/l/n8n-ai-email-triage). Running in about 15 minutes. More ready-to-import n8n templates (lead qualifier, invoice extractor, resume screener, RAG chatbot and others): [nasarhayatt.gumroad.com](https://nasarhayatt.gumroad.com).
 
 ## How it works
 
